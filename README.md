@@ -6,7 +6,7 @@
 ### 开发人员
 | name |otherName | 贡献 |
 | ------ | ------ | ------ |
-| jasonlwy | 大宝 | 前端开发+Java开发 |
+| jasonlwy | 大宝 | 前端开发+Java开发+产品经理 |
 | 老徐 | 所长 | java开发 |
 | jackD | 行长 | java开发 |
 | 锦鲤 | 鱼儿 | java开发 |
